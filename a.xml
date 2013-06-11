@@ -8,5 +8,5 @@
 		<preterence name="phonegap-version" value="2.7.0" />
 		</widget>
 		document.addEventListener("deviceready", , );
-		document.addEventListener("online offline backbutton volumeupbutton" );
+		document.addEventListener("online offline, backbutton, volumeupbutton" );
 		
